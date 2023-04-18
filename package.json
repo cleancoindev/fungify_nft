@@ -43,7 +43,7 @@
     "typescript": "^4.2.3"
   },
   "dependencies": {
-    "@openzeppelin/contracts": "^4.0.0",
+    "@openzeppelin/contracts": "^4.8.3",
     "@uniswap/lib": "2.1.0"
   }
 }
